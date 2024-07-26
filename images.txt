@@ -16,7 +16,9 @@ elasticsearch:7.17.6
 kibana:7.17.6
 logstash:7.17.6
 apache/skywalking-oap-server:9.3.0
+apache/skywalking-oap-server:9.7.0
 apache/skywalking-ui:9.3.0
+apache/skywalking-ui:9.7.0
 prom/prometheus:v2.40.1
 grafana/grafana:9.2.4
 apache/shardingsphere-proxy:5.4.0
