@@ -3,6 +3,9 @@ redis:6.2.7
 postgres:13.6
 postgres:14.2
 tekintian/oracle12c:latest
+mysql:5.7.35
+nacos/nacos-server:v2.2.2
+redis:7.0.7
 mysql:8.0.31
 apache/rocketmq:5.2.0
 apacherocketmq/rocketmq-dashboard:latest
