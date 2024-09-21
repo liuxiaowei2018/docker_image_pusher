@@ -15,6 +15,7 @@ minio/minio
 elasticsearch:7.17.6
 kibana:7.17.6
 logstash:7.17.6
+tomcat:6.0.53-jre8
 apache/skywalking-oap-server:9.3.0
 apache/skywalking-oap-server:9.7.0
 apache/skywalking-ui:9.3.0
