@@ -10,6 +10,7 @@ mysql:8.0.31
 apache/rocketmq:5.2.0
 apacherocketmq/rocketmq-dashboard:latest
 rabbitmq:3.13.3
+rabbitmq:3.8.19-management
 rabbitmq:3.13-management
 bitnami/zookeeper:3.8.0
 bitnami/kafka:3.6.2
